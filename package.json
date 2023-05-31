@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@cetusprotocol/cetus-sui-clmm-sdk": "^2.5.11",
+    "@mysten/bcs": "^0.7.1",
+    "@mysten/sui.js": "^0.0.0-experimental-20230414203405",
+    "bn.js": "^5.2.1"
+  }
+}
