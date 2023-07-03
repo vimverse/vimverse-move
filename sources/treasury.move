@@ -1,7 +1,6 @@
 module vimverse::treasury {
     friend vimverse::staking_distributor;
     friend vimverse::bond_depository44;
-    friend vimverse::presale;
     use sui::object::{Self, UID, ID};
     use sui::tx_context::{Self, TxContext};
     use sui::vec_set::{Self, VecSet};

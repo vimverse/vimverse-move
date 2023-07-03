@@ -1,6 +1,5 @@
 module vimverse::vim {
     friend vimverse::treasury;
-    friend vimverse::presale;
     use std::option;
     use sui::transfer;
     use sui::tx_context::{Self, TxContext};
